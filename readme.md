@@ -1,2 +1,0 @@
-# crackbrain
-index.html
